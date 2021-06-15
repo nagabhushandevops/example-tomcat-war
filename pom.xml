@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>1.0.0</version>
   <name>SimpleTomcatWebApp Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <url>http://13.127.142.222:8081/#browse/browse:maven-snapshots</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
