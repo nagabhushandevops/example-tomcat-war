@@ -4,9 +4,9 @@
   <groupId>com.example.app</groupId>
   <artifactId>SimpleTomcatWebApp</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0-Release</version>
   <name>SimpleTomcatWebApp Maven Webapp</name>
-  <url>http://13.127.142.222:8081/#browse/browse:maven-snapshots</url>
+  <url>http://13.127.142.222:8081/#browse/browse:Simple_Release</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
